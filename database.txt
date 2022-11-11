@@ -1,0 +1,6 @@
+1 Mateusz Franowski Mężczyzna Programista
+2 Tomasz Pawłowski Mężczyzna Automatyk
+3 Karolina Peszowska Kobieta Weterynarz
+4 Jolanta Kieślowska Kobieta Nauczyciel
+5 Kasia Królikowska Kobieta Fryzjer
+6 Krystian Pawlikowski Mężczyzna Logistyk
